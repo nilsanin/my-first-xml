@@ -1,2 +1,2 @@
-# my-first-xml
+# my-first
 just for fun - learning xml
